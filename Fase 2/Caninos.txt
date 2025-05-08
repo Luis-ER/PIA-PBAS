@@ -1,0 +1,1 @@
+[[{'raza': 'briard', 'imagen': 'n02105251_8560.jpg'}], [{'raza': 'waterdog-spanish', 'imagen': '20181023_072736.jpg'}], [{'raza': 'dachshund', 'imagen': 'dog-1018408_640.jpg'}], [{'raza': 'bulldog-english', 'imagen': 'mami.jpg'}], [{'raza': 'hound-plott', 'imagen': 'hhh-23456.jpg'}]]
